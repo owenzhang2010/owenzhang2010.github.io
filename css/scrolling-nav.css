@@ -17,3 +17,11 @@ header {
 section {
   padding: 150px 0;
 }
+
+#contact {
+  text-align: center;
+}
+
+.social {
+	padding: 20px;
+}
